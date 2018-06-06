@@ -14,4 +14,3 @@ def position_taken?(board,index)
     taken = true
 end# code your #position_taken? method here!
 end
-
